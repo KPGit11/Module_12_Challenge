@@ -3,12 +3,23 @@ import Project from '../components/Project';
 function Portfolio() {
   const projects = [
     {
-      title: "Project 1",
-      image: "/project1.jpg",
-      deployedLink: "https://project1.com",
-      githubLink: "https://github.com/username/project1"
+      title: "Project 1: Finance Tracker",
+      image: "../images/project1.png",
+      deployedLink: "https://0xnulllight.github.io/Project_1-Coding_BC/",
+      githubLink: "https://github.com/0xNullLight/Project_1-Coding_BC"
     },
-    // Add 5 more projects
+    {
+      title: "Project 2: Ramen-Reel",
+      image: "/images/project2.png",
+      deployedLink: "https://github.com/Alek901/Ramen-Reel",
+      githubLink: "https://github.com/Alek901/Ramen-Reel"
+    },
+    {
+      title: "Project 3: Crave Wave",
+      image: "/images/project3.png",
+      deployedLink: "https://github.com/Alek901/Crave-Wave",
+      githubLink: "https://github.com/Alek901/Crave-Wave"
+    },
   ];
 
   return (

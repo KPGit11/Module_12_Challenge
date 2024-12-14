@@ -2,7 +2,7 @@ function Resume() {
   return (
     <section className="resume">
       <h2>Resume</h2>
-      <a href="/path-to-your-resume.pdf" download className="download-btn">
+      <a href="../assets/resume.pdf" download className="download-btn">
         Download Resume
       </a>
       
@@ -14,7 +14,6 @@ function Resume() {
           <li>Node.js</li>
           <li>HTML5 & CSS3</li>
           <li>Git</li>
-          {/* Add more skills */}
         </ul>
       </div>
     </section>
