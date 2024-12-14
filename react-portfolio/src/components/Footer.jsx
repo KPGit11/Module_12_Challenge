@@ -8,10 +8,10 @@ function Footer() {
         <a href="https://github.com/KPGit11" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faGithub} />
         </a>
-        <a href="https://linkedin.com/in/KPerez93" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/kevin-perez-732a88341/" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faLinkedin} />
         </a>
-        <a href="https://stackoverflow.com/users/KPerez93" target="_blank" rel="noopener noreferrer">
+        <a href="https://stackoverflow.com/users/28776993/kevin-perez" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faStackOverflow} />
         </a>
       </div>
