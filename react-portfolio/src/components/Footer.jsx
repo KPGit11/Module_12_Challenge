@@ -3,7 +3,7 @@ import { faGithub, faLinkedin, faStackOverflow } from '@fortawesome/free-brands-
 
 function Footer() {
   return (
-    <footer>
+    <footer className="footer">
       <div className="social-links">
         <a href="https://github.com/KPGit11" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faGithub} />
